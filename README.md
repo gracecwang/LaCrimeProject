@@ -4,6 +4,7 @@
 - Annie Cheung: https://github.com/AnnieXCheung/MiST4610-Project2/tree/2af99aafcc02f750e1245b1a48ceba22c9d98b6c
 - Mussie Gebrekidan: https://github.com/MussieEfrem/MIST4610-Project2.git
 - Josh Yi: https://github.com/JoshJYi/GroupProject2
+- Grace Wang: https://github.com/gracecwang/LaCrimeProject
 
 **2. LA Crime Dataset and its contents**
 For this project, we used the "Crime Data from 2020 to present" dataset published by the city of Los Angeles (https://catalog.data.gov/dataset/crime-data-from-2020-to-present). 
