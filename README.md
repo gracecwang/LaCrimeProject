@@ -13,7 +13,7 @@ This dataset reflects incidents of crime in the City of Los Angeles dating from 
 The dataset includes: 
 - DATE/TIME columns about the crime including the date reported, date of occurrence, and time occurred
 - STRING columns including area name, crime code description, victim age, victim sex, victim descent
-- latitude, and longitude.
+- DECIMAL columns including latitude and longitude.
 
 **3. Questions Highlighting Interesting Phenomenom**
 
